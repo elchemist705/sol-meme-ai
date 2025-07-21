@@ -1,0 +1,468 @@
+[
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.94875,
+    "buy_price": 0.0153,
+    "sell_price": 0.0204,
+    "profit": 0.0051,
+    "timestamp": 1753071091.5230072
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.75575,
+    "buy_price": 0.0159,
+    "sell_price": 0.0343,
+    "profit": 0.0184,
+    "timestamp": 1753071091.5230694
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.81725,
+    "buy_price": 0.0169,
+    "sell_price": 0.047,
+    "profit": 0.0301,
+    "timestamp": 1753071091.523114
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.840250000000001,
+    "buy_price": 0.0067,
+    "sell_price": 0.0092,
+    "profit": 0.0025,
+    "timestamp": 1753071091.5231702
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 12.362499999999999,
+    "buy_price": 0.0195,
+    "sell_price": 0.0386,
+    "profit": 0.0191,
+    "timestamp": 1753071098.9419565
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.342500000000001,
+    "buy_price": 0.0099,
+    "sell_price": 0.0152,
+    "profit": 0.0053,
+    "timestamp": 1753071098.9420762
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.266,
+    "buy_price": 0.0188,
+    "sell_price": 0.0561,
+    "profit": 0.0373,
+    "timestamp": 1753071100.7812042
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.012500000000001,
+    "buy_price": 0.0053,
+    "sell_price": 0.0043,
+    "profit": -0.001,
+    "timestamp": 1753071100.7813427
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.78075,
+    "buy_price": 0.0178,
+    "sell_price": 0.0459,
+    "profit": 0.0281,
+    "timestamp": 1753071100.7814186
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 12.722999999999999,
+    "buy_price": 0.0109,
+    "sell_price": 0.0215,
+    "profit": 0.0106,
+    "timestamp": 1753071100.7814922
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.155750000000001,
+    "buy_price": 0.011,
+    "sell_price": 0.0315,
+    "profit": 0.0205,
+    "timestamp": 1753071101.5218227
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.207500000000001,
+    "buy_price": 0.0194,
+    "sell_price": 0.024,
+    "profit": 0.0046,
+    "timestamp": 1753071101.5221353
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 12.18225,
+    "buy_price": 0.014,
+    "sell_price": 0.0153,
+    "profit": 0.0013,
+    "timestamp": 1753071102.4835062
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.32475,
+    "buy_price": 0.0056,
+    "sell_price": 0.0135,
+    "profit": 0.0079,
+    "timestamp": 1753071103.090444
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.77975,
+    "buy_price": 0.0063,
+    "sell_price": 0.011,
+    "profit": 0.0047,
+    "timestamp": 1753071103.0904703
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.811000000000002,
+    "buy_price": 0.0113,
+    "sell_price": 0.0182,
+    "profit": 0.0069,
+    "timestamp": 1753071103.9893167
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.886999999999999,
+    "buy_price": 0.0164,
+    "sell_price": 0.0106,
+    "profit": -0.0058,
+    "timestamp": 1753071106.7535744
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.014999999999999,
+    "buy_price": 0.0178,
+    "sell_price": 0.0424,
+    "profit": 0.0246,
+    "timestamp": 1753071106.75367
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.65275,
+    "buy_price": 0.0165,
+    "sell_price": 0.0117,
+    "profit": -0.0048,
+    "timestamp": 1753071106.75371
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.9195,
+    "buy_price": 0.0061,
+    "sell_price": 0.013,
+    "profit": 0.0069,
+    "timestamp": 1753071106.7538204
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 12.01,
+    "buy_price": 0.0099,
+    "sell_price": 0.0242,
+    "profit": 0.0143,
+    "timestamp": 1753071328.8993,
+    "datetime": "2025-07-21 00:15:28"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.8,
+    "buy_price": 0.0165,
+    "sell_price": 0.0349,
+    "profit": 0.0184,
+    "timestamp": 1753071328.8993795,
+    "datetime": "2025-07-21 00:15:28"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.67,
+    "buy_price": 0.0159,
+    "sell_price": 0.0347,
+    "profit": 0.0188,
+    "timestamp": 1753071328.8994455,
+    "datetime": "2025-07-21 00:15:28"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.93,
+    "buy_price": 0.0057,
+    "sell_price": 0.0114,
+    "profit": 0.0057,
+    "timestamp": 1753071328.8995197,
+    "datetime": "2025-07-21 00:15:28"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.57,
+    "buy_price": 0.016,
+    "sell_price": 0.018,
+    "profit": 0.002,
+    "timestamp": 1753071328.8995655,
+    "datetime": "2025-07-21 00:15:28"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.87,
+    "buy_price": 0.0165,
+    "sell_price": 0.0165,
+    "profit": 0.0,
+    "timestamp": 1753071597.328657,
+    "datetime": "2025-07-21 00:19:57"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.74,
+    "buy_price": 0.0188,
+    "sell_price": 0.0527,
+    "profit": 0.0339,
+    "timestamp": 1753071597.3288412,
+    "datetime": "2025-07-21 00:19:57"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.43,
+    "buy_price": 0.0055,
+    "sell_price": 0.0141,
+    "profit": 0.0086,
+    "timestamp": 1753072847.0730808,
+    "datetime": "2025-07-21 00:40:47"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.1,
+    "buy_price": 0.018,
+    "sell_price": 0.0216,
+    "profit": 0.0036,
+    "timestamp": 1753072847.0731673,
+    "datetime": "2025-07-21 00:40:47"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.44,
+    "buy_price": 0.0143,
+    "sell_price": 0.0122,
+    "profit": -0.0021,
+    "timestamp": 1753072847.0732148,
+    "datetime": "2025-07-21 00:40:47"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.1,
+    "buy_price": 0.0181,
+    "sell_price": 0.0183,
+    "profit": 0.0002,
+    "timestamp": 1753072847.0732374,
+    "datetime": "2025-07-21 00:40:47"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 8.56,
+    "buy_price": 0.0196,
+    "sell_price": 0.0581,
+    "profit": 0.0385,
+    "timestamp": 1753073040.4204884,
+    "datetime": "2025-07-21 00:44:00"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.63,
+    "buy_price": 0.0123,
+    "sell_price": 0.0345,
+    "profit": 0.0222,
+    "timestamp": 1753073040.4205465,
+    "datetime": "2025-07-21 00:44:00"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.06,
+    "buy_price": 0.0062,
+    "sell_price": 0.0114,
+    "profit": 0.0052,
+    "timestamp": 1753073040.4206016,
+    "datetime": "2025-07-21 00:44:00"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 8.47,
+    "buy_price": 0.0106,
+    "sell_price": 0.0161,
+    "profit": 0.0055,
+    "timestamp": 1753073524.2567737,
+    "datetime": "2025-07-21 00:52:04"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.62,
+    "buy_price": 0.014,
+    "sell_price": 0.0317,
+    "profit": 0.0177,
+    "timestamp": 1753073524.2568374,
+    "datetime": "2025-07-21 00:52:04"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 8.45,
+    "buy_price": 0.0114,
+    "sell_price": 0.0228,
+    "profit": 0.0114,
+    "timestamp": 1753073524.2569067,
+    "datetime": "2025-07-21 00:52:04"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.4,
+    "buy_price": 0.0074,
+    "sell_price": 0.0175,
+    "profit": 0.0101,
+    "timestamp": 1753073528.0138407,
+    "datetime": "2025-07-21 00:52:08"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.49,
+    "buy_price": 0.0108,
+    "sell_price": 0.0121,
+    "profit": 0.0013,
+    "timestamp": 1753073531.0149817,
+    "datetime": "2025-07-21 00:52:11"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.05,
+    "buy_price": 0.0199,
+    "sell_price": 0.0422,
+    "profit": 0.0223,
+    "timestamp": 1753073531.0151289,
+    "datetime": "2025-07-21 00:52:11"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 11.11,
+    "buy_price": 0.0122,
+    "sell_price": 0.0216,
+    "profit": 0.0094,
+    "timestamp": 1753073531.0153775,
+    "datetime": "2025-07-21 00:52:11"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 8.56,
+    "buy_price": 0.0079,
+    "sell_price": 0.0158,
+    "profit": 0.0079,
+    "timestamp": 1753073531.0154378,
+    "datetime": "2025-07-21 00:52:11"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.85,
+    "buy_price": 0.0163,
+    "sell_price": 0.0372,
+    "profit": 0.0209,
+    "timestamp": 1753073532.969036,
+    "datetime": "2025-07-21 00:52:12"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.14,
+    "buy_price": 0.0191,
+    "sell_price": 0.0336,
+    "profit": 0.0145,
+    "timestamp": 1753073532.9691021,
+    "datetime": "2025-07-21 00:52:12"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 8.91,
+    "buy_price": 0.0137,
+    "sell_price": 0.0339,
+    "profit": 0.0202,
+    "timestamp": 1753073534.1453412,
+    "datetime": "2025-07-21 00:52:14"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.28,
+    "buy_price": 0.016,
+    "sell_price": 0.0306,
+    "profit": 0.0146,
+    "timestamp": 1753073534.1454964,
+    "datetime": "2025-07-21 00:52:14"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.67,
+    "buy_price": 0.0152,
+    "sell_price": 0.0172,
+    "profit": 0.002,
+    "timestamp": 1753073534.967627,
+    "datetime": "2025-07-21 00:52:14"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.11,
+    "buy_price": 0.0071,
+    "sell_price": 0.0173,
+    "profit": 0.0102,
+    "timestamp": 1753073535.5360062,
+    "datetime": "2025-07-21 00:52:15"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.87,
+    "buy_price": 0.0199,
+    "sell_price": 0.0311,
+    "profit": 0.0112,
+    "timestamp": 1753073536.090301,
+    "datetime": "2025-07-21 00:52:16"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.23,
+    "buy_price": 0.0079,
+    "sell_price": 0.0129,
+    "profit": 0.005,
+    "timestamp": 1753073536.0903792,
+    "datetime": "2025-07-21 00:52:16"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 10.38,
+    "buy_price": 0.0052,
+    "sell_price": 0.0137,
+    "profit": 0.0085,
+    "timestamp": 1753073536.6974518,
+    "datetime": "2025-07-21 00:52:16"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 8.99,
+    "buy_price": 0.0188,
+    "sell_price": 0.0335,
+    "profit": 0.0147,
+    "timestamp": 1753073536.6975222,
+    "datetime": "2025-07-21 00:52:16"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 9.4,
+    "buy_price": 0.0161,
+    "sell_price": 0.046,
+    "profit": 0.0299,
+    "timestamp": 1753073536.697576,
+    "datetime": "2025-07-21 00:52:16"
+  },
+  {
+    "coin": "Pepe420Moon",
+    "score": 8.96,
+    "buy_price": 0.0195,
+    "sell_price": 0.0156,
+    "profit": -0.0039,
+    "timestamp": 1753073536.6976573,
+    "datetime": "2025-07-21 00:52:16"
+  }
+]
