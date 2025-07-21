@@ -114,12 +114,10 @@ def simulate_trade(coin, score):
 
     stop_triggered = False
     loss_threshold = 0.4  # Stop if price drops 40%
-
-if multiplier < (1 - loss_threshold):
-    stop_triggered = True
-    exit_price = round(entry_price * (1 - loss_threshold), 4)
-    profit = round((exit_price - entry_price) * (trade_size / entry_price), 4)
-
+    if profit < 0 and abs(profit) >= (entry_price * loss_threshold):
+        stop_triggered = True
+        exit_price = round(entry_price * (1 - loss_threshold), 4)
+        profit = round((exit_price - entry_price) * (trade_size / entry_price), 4)
     return {
         'coin': coin['name'],
         'score': round(score, 2),
